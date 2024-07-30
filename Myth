@@ -1,0 +1,101 @@
+Myth	Hook	Food Item	Calories	Protein	Caption	Hashtags
+1	"Think bananas are fattening?"	Banana (1 medium)	105	1.3g	"Bananas are nutrient-dense and not fattening! 🌟 #MythBusted #HealthyEating"	#HealthyEating #NutritionMyth #Bananas
+2	"Can eggs raise your cholesterol?"	Egg (1 large)	70	6g	"Eggs are packed with protein and won't spike your cholesterol levels. 🍳 #EggFacts #MythBusted"	#Eggs #Protein #HealthyEating
+3	"Are carbs the enemy?"	Quinoa (1 cup cooked)	222	8g	"Carbs can be your best friend when they come from whole grains like quinoa. 🍚 #CarbMyths #MythBusted"	#Carbs #HealthyEating #WholeGrains
+4	"Is peanut butter unhealthy?"	Peanut Butter (2 tbsp)	190	8g	"Peanut butter is full of healthy fats and protein. 🥜 #PeanutButterLove #MythBusted"	#HealthyFats #Protein #NutButters
+5	"Can dairy cause weight gain?"	Greek Yogurt (1 cup)	100	10g	"Greek yogurt is low in calories and high in protein, making it a great choice for weight management. 🥄 #DairyMyths #MythBusted"	#GreekYogurt #HealthyEating #Protein
+6	"Is fruit juice just as healthy as whole fruit?"	Orange Juice (1 cup)	112	2g	"Whole fruits provide fiber and nutrients that juice lacks. 🍊 #FruitFacts #MythBusted"	#WholeFruits #HealthyChoices #Nutrition
+7	"Can you eat too much protein?"	Chicken Breast (3 oz)	140	26g	"Moderate protein intake supports muscle growth without overdoing it. 🍗 #ProteinPower #MythBusted"	#Protein #HealthyEating #Fitness
+8	"Do you need supplements for all nutrients?"	Spinach (1 cup)	23	2.9g	"A balanced diet can provide most of the nutrients you need. 🌿 #SupplementsMyth #MythBusted"	#WholeFoods #Nutrition #HealthyEating
+9	"Are fats always bad for you?"	Avocado (1 medium)	240	3g	"Healthy fats like those in avocados are essential for your diet. 🥑 #FatFacts #MythBusted"	#HealthyFats #Avocado #Nutrition
+10	"Is red meat bad for your heart?"	Beef Tenderloin (3 oz)	180	24g	"Lean cuts of red meat can be part of a heart-healthy diet. 🥩 #RedMeatFacts #MythBusted"	#RedMeat #Protein #HeartHealth
+11	"Is coconut oil the healthiest oil?"	Coconut Oil (1 tbsp)	121	0g	"Coconut oil has its benefits, but moderation is key! 🥥 #OilFacts #MythBusted"	#HealthyFats #CoconutOil #Nutrition
+12	"Can you eat as much as you want if it's healthy?"	Almonds (1 oz)	164	6g	"Portion control matters even with healthy foods like almonds. 🌰 #PortionControl #MythBusted"	#HealthySnacking #Nutrition #Almonds
+13	"Is honey better than sugar?"	Honey (1 tbsp)	64	0g	"Honey and sugar both add sweetness but remember, moderation is key! 🍯 #SweetTruths #MythBusted"	#Honey #Sugar #HealthyEating
+14	"Does eating late at night make you gain weight?"	Cottage Cheese (1 cup)	206	28g	"It's about what and how much you eat, not when. 🕛 #LateNightEating #MythBusted"	#HealthyEating #NutritionMyth #Protein
+15	"Are all processed foods bad?"	Whole Grain Bread (1 slice)	69	3.6g	"Not all processed foods are created equal - whole grain bread can be healthy. 🍞 #ProcessedFoods #MythBusted"	#HealthyEating #WholeGrains #Nutrition
+16	"Can you get enough protein on a vegetarian diet?"	Lentils (1 cup cooked)	230	18g	"Vegetarians can meet their protein needs with foods like lentils. 🌱 #VegetarianProtein #MythBusted"	#PlantBased #Protein #HealthyEating
+17	"Is snacking bad for you?"	Apple (1 medium)	95	0.5g	"Healthy snacking, like eating an apple, can be part of a balanced diet. 🍏 #HealthySnacking #MythBusted"	#Snacking #Nutrition #HealthyEating
+18	"Can drinking water help you lose weight?"	Water (1 cup)	0	0g	"Staying hydrated can support weight loss efforts. 💧 #Hydration #MythBusted"	#Water #HealthyLiving #WeightLoss
+19	"Is brown sugar healthier than white sugar?"	Brown Sugar (1 tbsp)	52	0g	"Brown sugar is not significantly healthier than white sugar. 🍪 #SugarFacts #MythBusted"	#HealthyEating #Sugar #Nutrition
+20	"Are protein shakes necessary?"	Whey Protein Shake (1 scoop)	120	24g	"Protein shakes can help but are not necessary if you get enough protein from food. 💪 #ProteinShakeMyth #MythBusted"	#Protein #Fitness #HealthyEating
+21	"Do all carbs make you gain weight?"	Sweet Potato (1 medium)	103	2.3g	"Complex carbs like sweet potatoes are great for your diet. 🍠 #CarbTruths #MythBusted"	#Carbs #HealthyEating #SweetPotato
+22	"Is red wine good for your heart?"	Red Wine (5 oz)	125	0.1g	"Moderation is key when it comes to red wine. 🍷 #WineFacts #MythBusted"	#RedWine #HeartHealth #Moderation
+23	"Are multivitamins a must?"	Multivitamin	0	0g	"A balanced diet often provides the nutrients you need. 💊 #VitaminMyth #MythBusted"	#Nutrition #HealthyEating #Vitamins
+24	"Is oatmeal a boring breakfast?"	Oatmeal (1 cup cooked)	154	6g	"Oatmeal is versatile and nutritious, not boring! 🥣 #OatmealLove #MythBusted"	#HealthyBreakfast #Oatmeal #Nutrition
+25	"Are diet sodas better than regular sodas?"	Diet Soda (12 oz)	0	0g	"Diet sodas can still have health impacts. 🥤 #SodaFacts #MythBusted"	#DietSoda #HealthyChoices #Nutrition
+26	"Can celery help you lose weight?"	Celery (1 stalk)	6	0.3g	"Celery is low-calorie but not a magic weight loss solution. 🥬 #WeightLossMyths #MythBusted"	#Celery #HealthyEating #WeightLoss
+27	"Is dark chocolate healthy?"	Dark Chocolate (1 oz)	170	2g	"In moderation, dark chocolate has health benefits. 🍫 #ChocolateFacts #MythBusted"	#DarkChocolate #HealthyEating #Moderation
+28	"Do you need to eat meat for protein?"	Chickpeas (1 cup cooked)	269	15g	"Plant-based proteins like chickpeas can meet your needs. 🌿 #PlantProtein #MythBusted"	#Chickpeas #Vegetarian #Protein
+29	"Is breakfast the most important meal?"	Greek Yogurt Parfait	150	12g	"All meals are important, focus on balance. 🥣 #BreakfastMyths #MythBusted"	#HealthyBreakfast #Nutrition #BalancedDiet
+30	"Is gluten-free always healthier?"	Gluten-Free Bread (1 slice)	70	2g	"Gluten-free isn't necessarily healthier unless you have celiac disease. 🍞 #GlutenMyths #MythBusted"	#GlutenFree #HealthyEating #Nutrition
+31	"Is white rice unhealthy?"	White Rice (1 cup cooked)	205	4.3g	"White rice can be part of a balanced diet. 🍚 #RiceFacts #MythBusted"	#WhiteRice #Carbs #HealthyEating
+32	"Do you need to detox your body?"	Lemon Water	6	0.1g	"Your body detoxes itself naturally, lemon water helps with hydration. 🍋 #DetoxMyths #MythBusted"	#Hydration #HealthyLiving #Detox
+33	"Is butter bad for you?"	Butter (1 tbsp)	102	0.1g	"Butter in moderation can fit into a healthy diet. 🧈 #ButterFacts #MythBusted"	#HealthyFats #Butter #Moderation
+34	"Can skipping meals help you lose weight?"	Mixed Nuts (1 oz)	160	5g	"Skipping meals can lead to overeating later. 🥜 #MealSkippingMyth #MythBusted"	#HealthyEating #Nutrition #WeightLoss
+35	"Are avocados fattening?"	Avocado (1/2 medium)	120	1.5g	"Avocados contain healthy fats and are not fattening. 🥑 #AvocadoFacts #MythBusted"	#HealthyFats #Nutrition #Avocado
+36	"Is eating fat bad for your heart?"	Olive Oil (1 tbsp)	119	0g	"Healthy fats like olive oil can be good for your heart. 🫒 #HeartHealth #MythBusted"	#HealthyFats #OliveOil #Nutrition
+37	"Does microwaving food destroy nutrients?"	Steamed Broccoli (1 cup)	55	3.7g	"Microwaving can preserve nutrients just as well as other cooking methods. 🥦 #MicrowaveMyths #MythBusted"	#HealthyCooking #Nutrition #Broccoli
+38	"Are artificial sweeteners safe?"	Stevia (1 packet)	0	0g	"Most artificial sweeteners are safe in moderation. 🌱 #SweetenerFacts #MythBusted"	#ArtificialSweeteners #HealthyEating #Nutrition
+39	"Is eating fish unhealthy due to mercury?"	Salmon (3 oz)	121	17g	"Fish like salmon are healthy and mercury concerns are usually minimal. 🐟 #FishFacts #MythBusted"	#HealthyEating #Salmon #Omega3
+40	"Does eating small frequent meals boost metabolism?"	Snack (Cheese Stick)	80	6g	"Meal frequency doesn’t significantly affect metabolism. 🧀 #MetabolismMyths #MythBusted"	#HealthyEating #Nutrition #Protein
+41	"Are smoothies always healthy?"	Green Smoothie (1 cup)	200	5g	"Watch out for added sugars in smoothies. 🥤 #SmoothieFacts #MythBusted"	#HealthyDrinks #Nutrition #Smoothies
+42	"Is eating raw vegetables always better?"	Raw Carrots (1 cup)	52	1.2g	"Some nutrients are better absorbed from cooked vegetables. 🥕 #RawFoodMyths #MythBusted"	#HealthyEating #Vegetables #Nutrition
+43	"Is white bread unhealthy?"	White Bread (1 slice)	66	2g	"White bread can be part of a balanced diet in moderation. 🍞 #BreadFacts #MythBusted"	#HealthyEating #Nutrition #WhiteBread
+44	"Does eating fat make you fat?"	Almonds (1 oz)	164	6g	"Healthy fats are essential and do not make you fat. 🌰 #FatMyths #MythBusted"	#HealthyFats #Nutrition #Almonds
+45	"Can you get enough calcium without dairy?"	Kale (1 cup cooked)	36	2.5g	"Leafy greens like kale are great non-dairy calcium sources. 🥬 #CalciumMyths #MythBusted"	#NonDairy #HealthyEating #Calcium
+46	"Are energy drinks a good source of energy?"	Energy Drink (8 oz)	110	1g	"Energy drinks can have adverse effects, choose natural energy sources. ⚡️ #EnergyDrinkMyths #MythBusted"	#HealthyLiving #Nutrition #Energy
+47	"Is it okay to eat fast food occasionally?"	Grilled Chicken Sandwich	400	28g	"Occasional fast food can fit into a balanced diet. 🍔 #FastFoodMyths #MythBusted"	#HealthyChoices #Nutrition #FastFood
+48	"Does spicy food speed up metabolism?"	Jalapeño (1 pepper)	4	0.1g	"Spicy food may have a mild effect, but it's not significant. 🌶 #SpicyFoodMyths #MythBusted"	#HealthyEating #Nutrition #SpicyFood
+49	"Is frozen fruit less nutritious than fresh?"	Frozen Berries (1 cup)	70	1g	"Frozen fruit retains most of its nutrients. 🫐 #FrozenFoodMyths #MythBusted"	#HealthyEating #Nutrition #FrozenFruit
+50	"Can green tea help you lose weight?"	Green Tea (1 cup)	2	0g	"Green tea may support weight loss but is not a magic bullet. 🍵 #GreenTeaMyths #MythBusted"	#HealthyDrinks #Nutrition #WeightLoss
+51	"Does eating nuts make you fat?"	Walnuts (1 oz)	185	4.3g	"Nuts are nutritious and can help with weight management. 🌰 #NutsMyths #MythBusted"	#HealthySnacking #Nutrition #Nuts
+52	"Is margarine healthier than butter?"	Margarine (1 tbsp)	80	0g	"Margarine and butter both have pros and cons, choose in moderation. 🧈 #MargarineMyths #MythBusted"	#HealthyFats #Nutrition #Butter
+53	"Can you get enough iron without meat?"	Lentils (1 cup cooked)	230	18g	"Plant-based iron sources like lentils are excellent. 🌿 #IronMyths #MythBusted"	#HealthyEating #Nutrition #Iron
+54	"Is organic food more nutritious?"	Organic Apple (1 medium)	95	0.5g	"Organic and conventional foods have similar nutrients. 🍏 #OrganicMyths #MythBusted"	#HealthyEating #Nutrition #Organic
+55	"Does eating dessert ruin your diet?"	Dark Chocolate (1 oz)	170	2g	"Enjoying dessert in moderation can fit into a healthy diet. 🍫 #DessertMyths #MythBusted"	#HealthyEating #Nutrition #Dessert
+56	"Are smoothies better than eating whole fruits?"	Smoothie (1 cup)	150	2g	"Whole fruits provide fiber that smoothies may lack. 🍓 #SmoothieMyths #MythBusted"	#HealthyDrinks #Nutrition #Fruit
+57	"Can you drink coffee and stay healthy?"	Black Coffee (8 oz)	2	0g	"Moderate coffee consumption can be part of a healthy lifestyle. ☕️ #CoffeeMyths #MythBusted"	#HealthyDrinks #Nutrition #Coffee
+58	"Is eating dessert for breakfast bad?"	Greek Yogurt Parfait	150	12g	"Healthy desserts like Greek yogurt parfaits can be a great breakfast. 🥣 #BreakfastMyths #MythBusted"	#HealthyBreakfast #Nutrition #GreekYogurt
+59	"Does drinking milk cause acne?"	Milk (1 cup)	149	8g	"There's no strong evidence linking milk to acne for everyone. 🥛 #MilkMyths #MythBusted"	#HealthyEating #Nutrition #Milk
+60	"Is coconut water a miracle drink?"	Coconut Water (1 cup)	45	0g	"Coconut water is hydrating but not a cure-all. 🥥 #CoconutWaterMyths #MythBusted"	#HealthyDrinks #Hydration #Nutrition
+61	"Are fruit smoothies a healthy breakfast?"	Berry Smoothie (1 cup)	150	2g	"Smoothies can be healthy but watch for added sugars. 🍓 #SmoothieFacts #MythBusted"	#HealthyBreakfast #Nutrition #Smoothies
+62	"Does eating celery burn more calories than it contains?"	Celery (1 stalk)	6	0.3g	"Celery is low-calorie but doesn’t cause significant calorie burn. 🥬 #CeleryMyths #MythBusted"	#HealthyEating #Nutrition #WeightLoss
+63	"Is cheese bad for your heart?"	Cheddar Cheese (1 oz)	113	7g	"Cheese can be part of a heart-healthy diet in moderation. 🧀 #CheeseFacts #MythBusted"	#HealthyEating #Nutrition #Cheese
+64	"Can you eat too much fruit?"	Banana (1 medium)	105	1.3g	"Fruit is healthy but balance is key. 🍌 #FruitMyths #MythBusted"	#HealthyEating #Nutrition #Bananas
+65	"Does eating fat-free foods help you lose weight?"	Fat-Free Yogurt (1 cup)	100	10g	"Fat-free isn’t always healthier, watch out for added sugars. 🥄 #FatFreeMyths #MythBusted"	#HealthyEating #Nutrition #Yogurt
+66	"Is eating fast food always bad?"	Grilled Chicken Salad	350	30g	"Choose wisely, and fast food can be part of a balanced diet. 🥗 #FastFoodMyths #MythBusted"	#HealthyEating #Nutrition #FastFood
+67	"Do you need to avoid all sugars?"	Berries (1 cup)	84	1g	"Natural sugars in fruits are part of a healthy diet. 🫐 #SugarMyths #MythBusted"	#HealthyEating #Nutrition #Berries
+68	"Is eating fat bad for losing weight?"	Avocado (1/2 medium)	120	1.5g	"Healthy fats like avocados can help with weight loss. 🥑 #FatMyths #MythBusted"	#HealthyFats #Nutrition #WeightLoss
+69	"Are breakfast cereals healthy?"	Oatmeal (1 cup cooked)	154	6g	"Choose whole grain cereals without added sugars. 🥣 #CerealMyths #MythBusted"	#HealthyBreakfast #Nutrition #Oatmeal
+70	"Can you eat too many eggs?"	Egg (1 large)	70	6g	"Eggs are nutritious and safe for most people in moderation. 🍳 #EggMyths #MythBusted"	#HealthyEating #Nutrition #Eggs
+71	"Is dairy bad for you?"	Milk (1 cup)	149	8g	"Dairy can be part of a balanced diet. 🥛 #DairyMyths #MythBusted"	#HealthyEating #Nutrition #Milk
+72	"Do all fats cause weight gain?"	Olive Oil (1 tbsp)	119	0g	"Healthy fats are essential for your diet. 🫒 #FatFacts #MythBusted"	#HealthyFats #Nutrition #OliveOil
+73	"Is eating pasta unhealthy?"	Whole Wheat Pasta (1 cup)	174	7g	"Whole wheat pasta can be a nutritious choice. 🍝 #PastaMyths #MythBusted"	#HealthyEating #Nutrition #Pasta
+74	"Can you drink alcohol and stay healthy?"	Red Wine (5 oz)	125	0.1g	"Moderation is key when consuming alcohol. 🍷 #AlcoholMyths #MythBusted"	#HealthyLiving #Nutrition #RedWine
+75	"Is juice cleansing necessary?"	Green Juice (1 cup)	50	1g	"Your body naturally cleanses itself, no need for juice cleanses. 🥤 #JuiceCleanseMyths #MythBusted"	#HealthyDrinks #Nutrition #Detox
+76	"Does bread make you fat?"	Whole Grain Bread (1 slice)	69	3.6g	"Whole grain bread can be part of a healthy diet. 🍞 #BreadFacts #MythBusted"	#HealthyEating #Nutrition #WholeGrains
+77	"Are sports drinks necessary for hydration?"	Sports Drink (8 oz)	50	0g	"Water is usually enough for hydration. 💧 #SportsDrinkMyths #MythBusted"	#HealthyLiving #Hydration #SportsDrinks
+78	"Is soy bad for you?"	Tofu (1/2 cup)	94	10g	"Soy is a nutritious plant-based protein. 🌱 #SoyMyths #MythBusted"	#PlantProtein #HealthyEating #Nutrition
+79	"Can you eat carbs at night?"	Brown Rice (1 cup cooked)	216	5g	"It's okay to eat carbs at night, focus on total intake. 🍚 #CarbMyths #MythBusted"	#HealthyEating #Nutrition #Carbs
+80	"Is fruit sugar bad for you?"	Apple (1 medium)	95	0.5g	"Fruit sugar is natural and part of a healthy diet. 🍏 #FruitSugarMyths #MythBusted"	#HealthyEating #Nutrition #Fruit
+81	"Does skipping breakfast help you lose weight?"	Greek Yogurt (1 cup)	100	10g	"Skipping breakfast can lead to overeating later. 🥄 #BreakfastMyths #MythBusted"	#HealthyEating #Nutrition #GreekYogurt
+82	"Are diet foods always healthier?"	Diet Soda (12 oz)	0	0g	"Diet foods can be high in artificial ingredients. 🥤 #DietFoodMyths #MythBusted"	#HealthyEating #Nutrition #DietSoda
+83	"Can you get enough protein from plants?"	Quinoa (1 cup cooked)	222	8g	"Plants like quinoa are great protein sources. 🌱 #PlantProteinMyths #MythBusted"	#HealthyEating #Nutrition #Quinoa
+84	"Is eating before bed bad?"	Cottage Cheese (1 cup)	206	28g	"A light snack before bed can be okay, like cottage cheese. 🥄 #NightEatingMyths #MythBusted"	#HealthyEating #Nutrition #Protein
+85	"Can you drink milk and stay healthy?"	Milk (1 cup)	149	8g	"Milk can be part of a healthy diet. 🥛 #MilkMyths #MythBusted"	#HealthyEating #Nutrition #Milk
+86	"Does fruit make you fat?"	Berries (1 cup)	84	1g	"Fruit is healthy and doesn’t cause weight gain. 🫐 #FruitMyths #MythBusted"	#HealthyEating #Nutrition #Berries
+87	"Can you get enough protein on a vegan diet?"	Lentils (1 cup cooked)	230	18g	"Vegans can meet protein needs with foods like lentils. 🌿 #VeganProteinMyths #MythBusted"	#PlantProtein #HealthyEating #Vegan
+88	"Does drinking green tea burn fat?"	Green Tea (1 cup)	2	0g	"Green tea may help but it’s not a magic solution. 🍵 #GreenTeaMyths #MythBusted"	#HealthyDrinks #Nutrition #WeightLoss
+89	"Is eating chocolate unhealthy?"	Dark Chocolate (1 oz)	170	2g	"Dark chocolate has health benefits in moderation. 🍫 #ChocolateMyths #MythBusted"	#HealthyEating #Nutrition #DarkChocolate
+90	"Is low-fat yogurt better than regular?"	Low-Fat Yogurt (1 cup)	100	10g	"Low-fat yogurt may have added sugars, check labels. 🥄 #YogurtMyths #MythBusted"	#HealthyEating #Nutrition #Yogurt
+91	"Does eating bread make you gain weight?"	Whole Grain Bread (1 slice)	69	3.6g	"Whole grain bread can fit into a balanced diet. 🍞 #BreadMyths #MythBusted"	#HealthyEating #Nutrition #WholeGrains
+92	"Is sugar-free always better?"	Sugar-Free Snack	50	0g	"Sugar-free products can have other unhealthy ingredients. 🥤 #SugarFreeMyths #MythBusted"	#HealthyEating #Nutrition #SugarFree
+93	"Can you eat eggs every day?"	Egg (1 large)	70	6g	"Eggs are nutritious and safe for most people daily. 🍳 #EggMyths #MythBusted"	#HealthyEating #Nutrition #Eggs
+94	"Is fruit juice a healthy choice?"	Orange Juice (1 cup)	112	2g	"Whole fruits are a better choice than fruit juice. 🍊 #JuiceMyths #MythBusted"	#HealthyDrinks #Nutrition #Fruit
+95	"Does drinking coffee dehydrate you?"	Black Coffee (8 oz)	2	0g	"Moderate coffee consumption doesn’t dehydrate you. ☕️ #CoffeeMyths #MythBusted"	#HealthyDrinks #Nutrition #Coffee
+96	"Are protein bars healthy?"	Protein Bar	200	20g	"Check the ingredients, some protein bars have added sugars. 🍫 #ProteinBarMyths #MythBusted"	#HealthyEating #Nutrition #Protein
+97	"Is eating nuts unhealthy?"	Almonds (1 oz)	164	6g	"Nuts are nutritious and can help with weight management. 🌰 #NutsMyths #MythBusted"	#HealthySnacking #Nutrition #Nuts
+98	"Can you eat cheese and stay healthy?"	Cheddar Cheese (1 oz)	113	7g	"Cheese can be part of a healthy diet in moderation. 🧀 #CheeseMyths #MythBusted"	#HealthyEating #Nutrition #Cheese
+99	"Is eating fruit at night bad?"	Apple (1 medium)	95	0.5g	"Eating fruit at night is fine, focus on overall diet. 🍏 #FruitMyths #MythBusted"	#HealthyEating #Nutrition #Fruit
+100	"Can you get enough calcium without dairy?"	Kale (1 cup cooked)	36	2.5g	"Leafy greens like kale are great non-dairy calcium sources. 🥬 #CalciumMyths #MythBusted"	#NonDairy #HealthyEating #Calcium
