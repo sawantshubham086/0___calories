@@ -1,0 +1,507 @@
+Food A	Food B	Nutrition A	Nutrition B	Hook	Hashtags
+Apple	Banana	Calories: 95	Calories: 105	Which one fuels you better?	#HealthyChoice #AppleVsBanana
+		Carbs: 25g	Carbs: 27g		
+		Protein: 0.5g	Protein: 1.3g		
+		Fat: 0.3g	Fat: 0.3g		
+		Sugar: 19g	Sugar: 14g		
+Orange	Grapes	Calories: 62	Calories: 62	Juicy and sweet: Orange vs Grapes	#FruitBattle #HealthyEating
+		Carbs: 15g	Carbs: 16g		
+		Protein: 1.2g	Protein: 0.6g		
+		Fat: 0.2g	Fat: 0.3g		
+		Sugar: 12g	Sugar: 15g		
+Carrot	Cucumber	Calories: 25	Calories: 16	Crunchy delights compared	#VeggieDuel #HealthySnacks
+		Carbs: 6g	Carbs: 4g		
+		Protein: 0.6g	Protein: 0.8g		
+		Fat: 0.1g	Fat: 0.1g		
+		Sugar: 3g	Sugar: 2g		
+Broccoli	Cauliflower	Calories: 55	Calories: 25	The ultimate veggie showdown	#BroccoliVsCauliflower #EatYourVeggies
+		Carbs: 11g	Carbs: 5g		
+		Protein: 3.7g	Protein: 2g		
+		Fat: 0.6g	Fat: 0.3g		
+		Sugar: 2g	Sugar: 2g		
+Almonds	Walnuts	Calories: 161	Calories: 185	Nutty nutrition facts	#NutBattle #HealthyFats
+		Carbs: 6g	Carbs: 4g		
+		Protein: 6g	Protein: 4g		
+		Fat: 14g	Fat: 18g		
+		Sugar: 1g	Sugar: 1g		
+Blueberries	Strawberries	Calories: 84	Calories: 49	Berries face-off	#BerryGood #HealthyChoices
+		Carbs: 21g	Carbs: 12g		
+		Protein: 1.1g	Protein: 1g		
+		Fat: 0.5g	Fat: 0.5g		
+		Sugar: 15g	Sugar: 7g		
+Spinach	Kale	Calories: 23	Calories: 33	Super greens battle	#SpinachVsKale #Superfoods
+		Carbs: 4g	Carbs: 7g		
+		Protein: 3g	Protein: 2.9g		
+		Fat: 0.4g	Fat: 0.6g		
+		Sugar: 0.4g	Sugar: 0g		
+Quinoa	Brown Rice	Calories: 222	Calories: 216	Whole grain wonders	#QuinoaVsRice #HealthyCarbs
+		Carbs: 39g	Carbs: 45g		
+		Protein: 8g	Protein: 5g		
+		Fat: 4g	Fat: 1.8g		
+		Sugar: 1g	Sugar: 1g		
+Chicken Breast	Turkey Breast	Calories: 165	Calories: 135	Lean protein powerhouses	#ChickenVsTurkey #LeanProtein
+		Carbs: 0g	Carbs: 0g		
+		Protein: 31g	Protein: 30g		
+		Fat: 3.6g	Fat: 0.7g		
+		Sugar: 0g	Sugar: 0g		
+Salmon	Tuna	Calories: 208	Calories: 132	Omega-3 battle	#SalmonVsTuna #HealthyFish
+		Carbs: 0g	Carbs: 0g		
+		Protein: 20g	Protein: 28g		
+		Fat: 13g	Fat: 0.8g		
+		Sugar: 0g	Sugar: 0g		
+Greek Yogurt	Cottage Cheese	Calories: 100	Calories: 98	Dairy duel	#GreekYogurtVsCottageCheese #HealthyDairy
+		Carbs: 6g	Carbs: 3.4g		
+		Protein: 10g	Protein: 11g		
+		Fat: 4g	Fat: 4.3g		
+		Sugar: 6g	Sugar: 2.7g		
+Avocado	Hummus	Calories: 160	Calories: 166	Healthy fats and spreads	#AvocadoVsHummus #HealthyFats
+		Carbs: 9g	Carbs: 14g		
+		Protein: 2g	Protein: 7.9g		
+		Fat: 15g	Fat: 9.6g		
+		Sugar: 0.7g	Sugar: 0.5g		
+Oatmeal	Muesli	Calories: 150	Calories: 192	Breakfast boost	#OatmealVsMuesli #HealthyBreakfast
+		Carbs: 27g	Carbs: 32g		
+		Protein: 5g	Protein: 5g		
+		Fat: 3g	Fat: 5g		
+		Sugar: 1g	Sugar: 7g		
+Pineapple	Mango	Calories: 82	Calories: 99	Tropical taste test	#PineappleVsMango #TropicalFruits
+		Carbs: 22g	Carbs: 25g		
+		Protein: 0.9g	Protein: 1.4g		
+		Fat: 0.2g	Fat: 0.6g		
+		Sugar: 16g	Sugar: 23g		
+Peanuts	Cashews	Calories: 161	Calories: 157	Nutty snack showdown	#PeanutsVsCashews #HealthySnacks
+		Carbs: 5g	Carbs: 9g		
+		Protein: 7g	Protein: 5g		
+		Fat: 14g	Fat: 12g		
+		Sugar: 1g	Sugar: 2g		
+Lentils	Chickpeas	Calories: 230	Calories: 210	Plant-based protein punch	#LentilsVsChickpeas #PlantProtein
+		Carbs: 40g	Carbs: 35g		
+		Protein: 18g	Protein: 12g		
+		Fat: 0.8g	Fat: 3.5g		
+		Sugar: 3.6g	Sugar: 6g		
+Pomegranate	Kiwi	Calories: 83	Calories: 42	Exotic fruits compared	#PomegranateVsKiwi #HealthyChoices
+		Carbs: 19g	Carbs: 10g		
+		Protein: 1.7g	Protein: 0.8g		
+		Fat: 1.2g	Fat: 0.4g		
+		Sugar: 14g	Sugar: 6g		
+Sweet Potato	Pumpkin	Calories: 112	Calories: 49	Fall favorites face-off	#SweetPotatoVsPumpkin #HealthyEating
+		Carbs: 26g	Carbs: 12g		
+		Protein: 2g	Protein: 1.8g		
+		Fat: 0.1g	Fat: 0.2g		
+		Sugar: 5g	Sugar: 5g		
+Egg	Tofu	Calories: 78	Calories: 94	Protein-packed breakfast options	#EggVsTofu #HealthyProtein
+		Carbs: 0.6g	Carbs: 2.3g		
+		Protein: 6g	Protein: 10g		
+		Fat: 5g	Fat: 5g		
+		Sugar: 0.5g	Sugar: 0.3g		
+Pear	Peach	Calories: 101	Calories: 59	Sweet and juicy fruit comparison	#PearVsPeach #HealthySnacks
+		Carbs: 27g	Carbs: 14g		
+		Protein: 1g	Protein: 1g		
+		Fat: 0.3g	Fat: 0.4g		
+		Sugar: 17g	Sugar: 13g		
+					
+This is the start of the list. I’ll now generate the remaining entries up to 500 in a similar format.					
+					
+Let's continue with the next set:					
+					
+Food A	Food B	Nutrition A	Nutrition B	Hook	Hashtags
+Beef	Pork	Calories: 250	Calories: 242	Red meat showdown	#BeefVsPork #ProteinBattle
+		Carbs: 0g	Carbs: 0g		
+		Protein: 26g	Protein: 27g		
+		Fat: 15g	Fat: 14g		
+		Sugar: 0g	Sugar: 0g		
+Brown Rice	White Rice	Calories: 215	Calories: 204	Rice comparison	#BrownRiceVsWhiteRice #HealthyCarbs
+		Carbs: 45g	Carbs: 45g		
+		Protein: 5g	Protein: 4.2g		
+		Fat: 1.8g	Fat: 0.4g		
+		Sugar: 0g	Sugar: 0g		
+Coconut Water	Almond Milk	Calories: 46	Calories: 30	Refreshing beverages compared	#CoconutWaterVsAlmondMilk #HealthyDrinks
+		Carbs: 9g	Carbs: 1g		
+		Protein: 2g	Protein: 1g		
+		Fat: 0.5g	Fat: 2.5g		
+		Sugar: 6g	Sugar: 0g		
+Figs	Dates	Calories: 107	Calories: 277	Natural sweeteners showdown	#FigsVsDates #HealthySweets
+		Carbs: 28g	Carbs: 75g		
+		Protein: 1g	Protein: 2g		
+		Fat: 0.3g	Fat: 0.2g		
+		Sugar: 24g	Sugar: 66g		
+Green Beans	Peas	Calories: 31	Calories: 62	Green veggie face-off	#GreenBeansVsPeas #HealthyVegetables
+		Carbs: 7g	Carbs: 11g		
+		Protein: 1.8g	Protein: 4g		
+		Fat: 0.1g	Fat: 0.4g		
+		Sugar: 3.5g	Sugar: 4g		
+Kale Chips	Potato Chips	Calories: 50	Calories: 152	Snack attack: Kale vs Potato	#KaleChipsVsPotatoChips #HealthySnacking
+		Carbs: 10g	Carbs: 15g		
+		Protein: 2g	Protein: 2g		
+		Fat: 3.5g	Fat: 10g		
+		Sugar: 0g	Sugar: 1g		
+Macadamia Nuts	Hazelnuts	Calories: 204	Calories: 176	Nutty nutrition showdown	#MacadamiaVsHazelnuts #HealthyNuts
+		Carbs: 4g	Carbs: 6g		
+		Protein: 2g	Protein: 4g		
+		Fat: 21g	Fat: 17g		
+		Sugar: 1.5g	Sugar: 1.2g		
+Papaya	Guava	Calories: 59	Calories: 37	Tropical fruit taste test	#PapayaVsGuava #HealthyFruit
+		Carbs: 15g	Carbs: 8g		
+		Protein: 1g	Protein: 1.4g		
+		Fat: 0.4g	Fat: 0.5g		
+		Sugar: 9g	Sugar: 5g		
+Pinto Beans	Black Beans	Calories: 245	Calories: 227	Bean benefits compared	#PintoBeansVsBlackBeans #HealthyLegumes
+		Carbs: 45g	Carbs: 40g		
+		Protein: 15g	Protein: 15g		
+		Fat: 1g	Fat: 0.9g		
+		Sugar: 0g	Sugar: 0.3g		
+Plum	Apricot	Calories: 30	Calories: 17	Stone fruit showdown	#PlumVsApricot #HealthyFruitChoices
+		Carbs: 8g	Carbs: 4g		
+		Protein: 0.5g	Protein: 0.5g		
+		Fat: 0.2g	Fat: 0.1g		
+		Sugar: 7g	Sugar: 3.2g		
+Tomato	Bell Pepper	Calories: 22	Calories: 24	Veggie vitamin showdown	#TomatoVsBellPepper #HealthyChoices
+		Carbs: 5g	Carbs: 6g		
+		Protein: 1g	Protein: 1g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 3.2g	Sugar: 4.2g		
+Blackberries	Raspberries	Calories: 43	Calories: 52	Berry antioxidants compared	#BlackberriesVsRaspberries #BerryBattle
+		Carbs: 10g	Carbs: 12g		
+		Protein: 1.4g	Protein: 1.5g		
+		Fat: 0.5g	Fat: 0.6g		
+		Sugar: 5g	Sugar: 5g		
+Asparagus	Zucchini	Calories: 20	Calories: 17	Green veggie face-off	#AsparagusVsZucchini #HealthyVeggies
+		Carbs: 3.7g	Carbs: 3.1g		
+		Protein: 2.2g	Protein: 1.2g		
+		Fat: 0.2g	Fat: 0.3g		
+		Sugar: 1.3g	Sugar: 2.5g		
+Edamame	Green Peas	Calories: 121	Calories: 62	Protein-packed legumes	#EdamameVsGreenPeas #HealthyLegumes
+		Carbs: 9g	Carbs: 11g		
+		Protein: 11g	Protein: 4g		
+		Fat: 5g	Fat: 0.4g		
+		Sugar: 2g	Sugar: 4g		
+Pistachios	Pecans	Calories: 159	Calories: 196	Nutty snack showdown	#PistachiosVsPecans #HealthyNuts
+		Carbs: 8g	Carbs: 4g		
+		Protein: 6g	Protein: 3g		
+		Fat: 13g	Fat: 20g		
+		Sugar: 2g	Sugar: 1g		
+Oranges	Tangerines	Calories: 62	Calories: 47	Citrus sensations compared	#OrangesVsTangerines #HealthyCitrus
+		Carbs: 15g	Carbs: 12g		
+		Protein: 1.2g	Protein: 0.7g		
+		Fat: 0.2g	Fat: 0.3g		
+		Sugar: 12g	Sugar: 9g		
+Chicken Thigh	Pork Chop	Calories: 209	Calories: 231	Meat lovers' matchup	#ChickenThighVsPorkChop #ProteinPower
+		Carbs: 0g	Carbs: 0g		
+		Protein: 26g	Protein: 27g		
+		Fat: 10.9g	Fat: 13.3g		
+		Sugar: 0g	Sugar: 0g		
+Turkey	Duck	Calories: 189	Calories: 337	Poultry nutrition face-off	#TurkeyVsDuck #HealthyPoultry
+		Carbs: 0g	Carbs: 0g		
+		Protein: 24g	Protein: 19g		
+		Fat: 8g	Fat: 28g		
+		Sugar: 0g	Sugar: 0g		
+Pine Nuts	Sunflower Seeds	Calories: 191	Calories: 165	Seed showdown	#PineNutsVsSunflowerSeeds #HealthySeeds
+		Carbs: 4g	Carbs: 6g		
+		Protein: 4g	Protein: 6g		
+		Fat: 19g	Fat: 14g		
+		Sugar: 1g	Sugar: 2g		
+Beets	Radishes	Calories: 44	Calories: 16	Root veggie rivals	#BeetsVsRadishes #HealthyVegetables
+		Carbs: 10g	Carbs: 3.4g		
+		Protein: 1.7g	Protein: 0.7g		
+		Fat: 0.2g	Fat: 0.1g		
+		Sugar: 8g	Sugar: 1.9g		
+Chia Seeds	Flax Seeds	Calories: 137	Calories: 150	Tiny powerhouses	#ChiaSeedsVsFlaxSeeds #Superfoods
+		Carbs: 12g	Carbs: 8g		
+		Protein: 4g	Protein: 5g		
+		Fat: 9g	Fat: 12g		
+		Sugar: 0g	Sugar: 0g		
+Cranberries	Goji Berries	Calories: 46	Calories: 98	Berry benefits	#CranberriesVsGojiBerries #HealthyBerries
+		Carbs: 12g	Carbs: 21g		
+		Protein: 0.4g	Protein: 4g		
+		Fat: 0.1g	Fat: 1g		
+		Sugar: 4g	Sugar: 13g		
+Bok Choy	Swiss Chard	Calories: 13	Calories: 19	Leafy green showdown	#BokChoyVsSwissChard #HealthyGreens
+		Carbs: 2.2g	Carbs: 3.7g		
+		Protein: 1.5g	Protein: 1.8g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 1.2g	Sugar: 1.6g		
+Squash	Eggplant	Calories: 36	Calories: 25	Summer veggie face-off	#SquashVsEggplant #HealthyChoices
+		Carbs: 8.6g	Carbs: 6g		
+		Protein: 1.1g	Protein: 0.8g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 4g	Sugar: 3.2g		
+Kiwi	Nectarine	Calories: 42	Calories: 62	Sweet and tart compared	#KiwiVsNectarine #HealthyFruit
+		Carbs: 10g	Carbs: 15g		
+		Protein: 0.8g	Protein: 1.5g		
+		Fat: 0.4g	Fat: 0.5g		
+		Sugar: 6g	Sugar: 11g		
+Mushrooms	Eggplant	Calories: 22	Calories: 25	Low-cal veggie showdown	#MushroomsVsEggplant #HealthyVeggies
+		Carbs: 3.3g	Carbs: 6g		
+		Protein: 3.1g	Protein: 0.8g		
+		Fat: 0.3g	Fat: 0.2g		
+		Sugar: 2g	Sugar: 3.2g		
+Lentils	Quinoa	Calories: 230	Calories: 222	Plant protein showdown	#LentilsVsQuinoa #HealthyProtein
+		Carbs: 40g	Carbs: 39g		
+		Protein: 18g	Protein: 8g		
+		Fat: 0.8g	Fat: 4g		
+		Sugar: 3.6g	Sugar: 1g		
+Mango	Pineapple	Calories: 99	Calories: 82	Tropical delight face-off	#MangoVsPineapple #TropicalFruits
+		Carbs: 25g	Carbs: 22g		
+		Protein: 1.4g	Protein: 0.9g		
+		Fat: 0.6g	Fat: 0.2g		
+		Sugar: 23g	Sugar: 16g		
+Lentils	Chickpeas	Calories: 230	Calories: 210	Legume lovers' matchup	#LentilsVsChickpeas #HealthyChoices
+		Carbs: 40g	Carbs: 35g		
+		Protein: 18g	Protein: 12g		
+		Fat: 0.8g	Fat: 3.5g		
+		Sugar: 3.6g	Sugar: 6g		
+Apricots	Figs	Calories: 17	Calories: 107	Sweet fruit face-off	#ApricotsVsFigs #HealthyFruit
+		Carbs: 4g	Carbs: 28g		
+		Protein: 0.5g	Protein: 1g		
+		Fat: 0.1g	Fat: 0.3g		
+		Sugar: 3.2g	Sugar: 24g		
+Papaya	Mango	Calories: 59	Calories: 99	Tropical fruit taste test	#PapayaVsMango #HealthyFruit
+		Carbs: 15g	Carbs: 25g		
+		Protein: 1g	Protein: 1.4g		
+		Fat: 0.4g	Fat: 0.6g		
+		Sugar: 9g	Sugar: 23g		
+Avocado	Coconut	Calories: 160	Calories: 283	Creamy goodness showdown	#AvocadoVsCoconut #HealthyFats
+		Carbs: 9g	Carbs: 12g		
+		Protein: 2g	Protein: 3g		
+		Fat: 15g	Fat: 27g		
+		Sugar: 0.7g	Sugar: 5g		
+Green Grapes	Red Grapes	Calories: 69	Calories: 69	Grape goodness compared	#GreenGrapesVsRedGrapes #HealthyFruit
+		Carbs: 18g	Carbs: 18g		
+		Protein: 0.7g	Protein: 0.7g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 16g	Sugar: 16g		
+Strawberries	Blueberries	Calories: 32	Calories: 57	Berry good choices	#StrawberriesVsBlueberries #HealthyChoices
+		Carbs: 7.7g	Carbs: 14.5g		
+		Protein: 0.7g	Protein: 0.7g		
+		Fat: 0.3g	Fat: 0.3g		
+		Sugar: 4.9g	Sugar: 10g		
+Watermelon	Cantaloupe	Calories: 30	Calories: 34	Melon madness	#WatermelonVsCantaloupe #HealthyFruit
+		Carbs: 8g	Carbs: 8g		
+		Protein: 0.6g	Protein: 0.8g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 6g	Sugar: 8g		
+Broccoli	Cauliflower	Calories: 55	Calories: 25	Cruciferous crunch	#BroccoliVsCauliflower #HealthyVeggies
+		Carbs: 11g	Carbs: 5g		
+		Protein: 3.7g	Protein: 1.9g		
+		Fat: 0.6g	Fat: 0.3g		
+		Sugar: 2.2g	Sugar: 1.9g		
+Butternut Squash	Pumpkin	Calories: 82	Calories: 30	Fall flavors face-off	#ButternutSquashVsPumpkin #HealthyChoices
+		Carbs: 22g	Carbs: 8g		
+		Protein: 1.8g	Protein: 1g		
+		Fat: 0.2g	Fat: 0.1g		
+		Sugar: 4g	Sugar: 3.2g		
+Clementine	Satsuma	Calories: 35	Calories: 30	Citrus sweetness showdown	#ClementineVsSatsuma #HealthyFruit
+		Carbs: 9g	Carbs: 7g		
+		Protein: 0.6g	Protein: 0.6g		
+		Fat: 0.1g	Fat: 0.1g		
+		Sugar: 7g	Sugar: 6g		
+Red Lentils	Green Lentils	Calories: 230	Calories: 230	Lentil varieties compared	#RedLentilsVsGreenLentils #HealthyLegumes
+		Carbs: 40g	Carbs: 40g		
+		Protein: 18g	Protein: 18g		
+		Fat: 0.8g	Fat: 0.8g		
+		Sugar: 3.6g	Sugar: 3.6g		
+Papaya	Pineapple	Calories: 59	Calories: 82	Tropical delight taste test	#PapayaVsPineapple #HealthyFruit
+		Carbs: 15g	Carbs: 22g		
+		Protein: 1g	Protein: 0.9g		
+		Fat: 0.4g	Fat: 0.2g		
+		Sugar: 9g	Sugar: 16g		
+Pomegranate	Cherry	Calories: 83	Calories: 50	Juicy fruit duel	#PomegranateVsCherry #HealthyFruit
+		Carbs: 19g	Carbs: 12g		
+		Protein: 1.7g	Protein: 1g		
+		Fat: 1.2g	Fat: 0.3g		
+		Sugar: 14g	Sugar: 8g		
+Bell Pepper	Jalapeño	Calories: 24	Calories: 4	Sweet vs. spicy showdown	#BellPepperVsJalapeño #HealthyChoices
+		Carbs: 6g	Carbs: 1g		
+		Protein: 1g	Protein: 0.1g		
+		Fat: 0.2g	Fat: 0.1g		
+		Sugar: 4.2g	Sugar: 0.6g		
+Dates	Prunes	Calories: 282	Calories: 240	Dried fruit duel	#DatesVsPrunes #HealthySnacks
+		Carbs: 75g	Carbs: 64g		
+		Protein: 2.5g	Protein: 2.2g		
+		Fat: 0.4g	Fat: 0.4g		
+		Sugar: 63g	Sugar: 38g		
+Arugula	Spinach	Calories: 25	Calories: 23	Leafy green rivalry	#ArugulaVsSpinach #HealthyGreens
+		Carbs: 3.7g	Carbs: 3.6g		
+		Protein: 2.6g	Protein: 2.9g		
+		Fat: 0.7g	Fat: 0.4g		
+		Sugar: 0.4g	Sugar: 0.4g		
+Brown Rice	Quinoa	Calories: 111	Calories: 222	Grain battle	#BrownRiceVsQuinoa #HealthyCarbs
+		Carbs: 23g	Carbs: 39g		
+		Protein: 2.6g	Protein: 8g		
+		Fat: 0.9g	Fat: 4g		
+		Sugar: 0.3g	Sugar: 1g		
+Sweet Potato	Russet Potato	Calories: 86	Calories: 168	Tuber taste test	#SweetPotatoVsRussetPotato #HealthyChoices
+		Carbs: 20g	Carbs: 37g		
+		Protein: 1.6g	Protein: 4.3g		
+		Fat: 0.1g	Fat: 0.2g		
+		Sugar: 4.2g	Sugar: 1.6g		
+Collard Greens	Kale	Calories: 32	Calories: 49	Greens showdown	#CollardGreensVsKale #HealthyGreens
+		Carbs: 6g	Carbs: 9g		
+		Protein: 3g	Protein: 4g		
+		Fat: 0.6g	Fat: 0.9g		
+		Sugar: 0.2g	Sugar: 1g		
+Watermelon	Honeydew Melon	Calories: 30	Calories: 36	Refreshing melon match	#WatermelonVsHoneydewMelon #HealthyFruit
+		Carbs: 8g	Carbs: 9g		
+		Protein: 0.6g	Protein: 0.5g		
+		Fat: 0.2g	Fat: 0.1g		
+		Sugar: 6g	Sugar: 8g		
+Black Beans	Kidney Beans	Calories: 227	Calories: 215	Bean battle	#BlackBeansVsKidneyBeans #HealthyLegumes
+		Carbs: 41g	Carbs: 37g		
+		Protein: 15g	Protein: 13g		
+		Fat: 0.9g	Fat: 1g		
+		Sugar: 0.6g	Sugar: 0.6g		
+Green Tea	Matcha	Calories: 2	Calories: 6	Tea time taste test	#GreenTeaVsMatcha #HealthyDrinks
+		Carbs: 0g	Carbs: 1g		
+		Protein: 0g	Protein: 0.5g		
+		Fat: 0g	Fat: 0g		
+		Sugar: 0g	Sugar: 0g		
+Tuna	Salmon	Calories: 132	Calories: 206	Fish nutrition face-off	#TunaVsSalmon #HealthySeafood
+		Carbs: 0g	Carbs: 0g		
+		Protein: 28g	Protein: 22g		
+		Fat: 1.3g	Fat: 12g		
+		Sugar: 0g	Sugar: 0g		
+Cashews	Macadamia Nuts	Calories: 157	Calories: 204	Nutty delight showdown	#CashewsVsMacadamiaNuts #HealthyNuts
+		Carbs: 9g	Carbs: 4g		
+		Protein: 5g	Protein: 2.2g		
+		Fat: 12g	Fat: 21g		
+		Sugar: 1.7g	Sugar: 1.3g		
+Fennel	Celery	Calories: 31	Calories: 16	Crunchy veggie face-off	#FennelVsCelery #HealthyChoices
+		Carbs: 7g	Carbs: 3g		
+		Protein: 1.2g	Protein: 0.7g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 3.9g	Sugar: 1.6g		
+Nectarine	Plum	Calories: 62	Calories: 46	Stone fruit taste test	#NectarineVsPlum #HealthyFruit
+		Carbs: 15g	Carbs: 11g		
+		Protein: 1.5g	Protein: 0.5g		
+		Fat: 0.5g	Fat: 0.3g		
+		Sugar: 11g	Sugar: 9.6g		
+Romaine Lettuce	Iceberg Lettuce	Calories: 8	Calories: 14	Lettuce comparison	#RomaineVsIceberg #HealthyGreens
+		Carbs: 1.5g	Carbs: 2.9g		
+		Protein: 0.6g	Protein: 0.9g		
+		Fat: 0.1g	Fat: 0.1g		
+		Sugar: 0.5g	Sugar: 1.9g		
+Fig	Dates	Calories: 107	Calories: 282	Sweet and chewy showdown	#FigVsDates #HealthySnacks
+		Carbs: 28g	Carbs: 75g		
+		Protein: 1g	Protein: 2.5g		
+		Fat: 0.3g	Fat: 0.4g		
+		Sugar: 24g	Sugar: 63g		
+Grapefruit	Orange	Calories: 52	Calories: 62	Citrus face-off	#GrapefruitVsOrange #HealthyFruit
+		Carbs: 13g	Carbs: 15g		
+		Protein: 0.9g	Protein: 1.2g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 8.5g	Sugar: 12g		
+Pumpkin Seeds	Sunflower Seeds	Calories: 151	Calories: 165	Seed showdown	#PumpkinSeedsVsSunflowerSeeds #HealthySeeds
+		Carbs: 5g	Carbs: 6g		
+		Protein: 7g	Protein: 6g		
+		Fat: 13g	Fat: 14g		
+		Sugar: 0.4g	Sugar: 2g		
+Sweet Corn	Peas	Calories: 86	Calories: 62	Veggie vs. veggie	#SweetCornVsPeas #HealthyVeggies
+		Carbs: 19g	Carbs: 11g		
+		Protein: 3.2g	Protein: 4g		
+		Fat: 1.2g	Fat: 0.4g		
+		Sugar: 6.4g	Sugar: 4g		
+Turkey Breast	Chicken Breast	Calories: 135	Calories: 165	Lean meat showdown	#TurkeyVsChicken #HealthyMeats
+		Carbs: 0g	Carbs: 0g		
+		Protein: 30g	Protein: 31g		
+		Fat: 1g	Fat: 3.6g		
+		Sugar: 0g	Sugar: 0g		
+Asparagus	Green Beans	Calories: 20	Calories: 31	Green veggie duel	#AsparagusVsGreenBeans #HealthyVeggies
+		Carbs: 3.7g	Carbs: 7g		
+		Protein: 2.2g	Protein: 1.8g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 1.9g	Sugar: 3.5g		
+Blackberries	Raspberries	Calories: 43	Calories: 52	Berry battle	#BlackberriesVsRaspberries #HealthyBerries
+		Carbs: 10g	Carbs: 12g		
+		Protein: 1.4g	Protein: 1.5g		
+		Fat: 0.5g	Fat: 0.6g		
+		Sugar: 4.9g	Sugar: 4.4g		
+Kiwi	Dragon Fruit	Calories: 61	Calories: 60	Exotic fruit face-off	#KiwiVsDragonFruit #HealthyFruit
+		Carbs: 15g	Carbs: 13g		
+		Protein: 1.1g	Protein: 1.2g		
+		Fat: 0.5g	Fat: 0g		
+		Sugar: 9g	Sugar: 8g		
+Almonds	Walnuts	Calories: 161	Calories: 185	Nutty nutrition showdown	#AlmondsVsWalnuts #HealthyNuts
+		Carbs: 6g	Carbs: 4g		
+		Protein: 6g	Protein: 4.3g		
+		Fat: 14g	Fat: 18g		
+		Sugar: 1.2g	Sugar: 1g		
+Chicken Thigh	Pork Chop	Calories: 209	Calories: 231	Protein-packed meat battle	#ChickenThighVsPorkChop #HealthyMeats
+		Carbs: 0g	Carbs: 0g		
+		Protein: 26g	Protein: 25g		
+		Fat: 10.9g	Fat: 13.8g		
+		Sugar: 0g	Sugar: 0g		
+Grapefruit	Pomelo	Calories: 52	Calories: 72	Citrus giant showdown	#GrapefruitVsPomelo #HealthyFruit
+		Carbs: 13g	Carbs: 18g		
+		Protein: 0.9g	Protein: 1.2g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 8.5g	Sugar: 12g		
+Brussel Sprouts	Cabbage	Calories: 38	Calories: 25	Cruciferous crunch	#BrusselSproutsVsCabbage #HealthyVeggies
+		Carbs: 8g	Carbs: 6g		
+		Protein: 3g	Protein: 1.3g		
+		Fat: 0.3g	Fat: 0.1g		
+		Sugar: 2.2g	Sugar: 3.2g		
+Pear	Peach	Calories: 101	Calories: 59	Juicy fruit comparison	#PearVsPeach #HealthyFruit
+		Carbs: 27g	Carbs: 14g		
+		Protein: 0.6g	Protein: 1.4g		
+		Fat: 0.3g	Fat: 0.4g		
+		Sugar: 17g	Sugar: 13g		
+Lima Beans	Black-eyed Peas	Calories: 113	Calories: 134	Legume match	#LimaBeansVsBlackEyedPeas #HealthyLegumes
+		Carbs: 20g	Carbs: 24g		
+		Protein: 7.8g	Protein: 4g		
+		Fat: 0.5g	Fat: 0.5g		
+		Sugar: 1.2g	Sugar: 2g		
+Red Cabbage	Napa Cabbage	Calories: 22	Calories: 13	Cabbage variety comparison	#RedCabbageVsNapaCabbage #HealthyVeggies
+		Carbs: 5g	Carbs: 2.4g		
+		Protein: 1g	Protein: 1.1g		
+		Fat: 0.1g	Fat: 0.2g		
+		Sugar: 2.2g	Sugar: 1.2g		
+Persimmon	Papaya	Calories: 81	Calories: 59	Sweet tropical fruit showdown	#PersimmonVsPapaya #HealthyFruit
+		Carbs: 21g	Carbs: 15g		
+		Protein: 0.6g	Protein: 1g		
+		Fat: 0.2g	Fat: 0.4g		
+		Sugar: 12.5g	Sugar: 9g		
+Chia Seeds	Flax Seeds	Calories: 137	Calories: 150	Seed showdown	#ChiaSeedsVsFlaxSeeds #HealthySeeds
+		Carbs: 12g	Carbs: 8g		
+		Protein: 4.7g	Protein: 5g		
+		Fat: 8.6g	Fat: 12g		
+		Sugar: 0g	Sugar: 0.2g		
+Seaweed	Kale Chips	Calories: 45	Calories: 84	Crunchy snack face-off	#SeaweedVsKaleChips #HealthySnacks
+		Carbs: 8g	Carbs: 7g		
+		Protein: 2g	Protein: 3g		
+		Fat: 2g	Fat: 5g		
+		Sugar: 0g	Sugar: 1g		
+Black Rice	White Rice	Calories: 200	Calories: 205	Rice showdown	#BlackRiceVsWhiteRice #HealthyCarbs
+		Carbs: 45g	Carbs: 45g		
+		Protein: 5g	Protein: 4.3g		
+		Fat: 1.5g	Fat: 0.4g		
+		Sugar: 0g	Sugar: 0.1g		
+Beetroot	Carrot	Calories: 43	Calories: 41	Root veggie duel	#BeetrootVsCarrot #HealthyVeggies
+		Carbs: 10g	Carbs: 10g		
+		Protein: 1.6g	Protein: 0.9g		
+		Fat: 0.2g	Fat: 0.2g		
+		Sugar: 7g	Sugar: 5g		
+Edamame	Green Peas	Calories: 121	Calories: 62	Legume face-off	#EdamameVsGreenPeas #HealthyLegumes
+		Carbs: 9g	Carbs: 11g		
+		Protein: 11g	Protein: 4g		
+		Fat: 5g	Fat: 0.4g		
+		Sugar: 2g	Sugar: 4g		
+Sardines	Anchovies	Calories: 208	Calories: 131	Tiny fish nutrition comparison	#SardinesVsAnchovies #HealthySeafood
+		Carbs: 0g	Carbs: 0g		
+		Protein: 25g	Protein: 20g		
+		Fat: 11g	Fat: 4.8g		
+		Sugar: 0g	Sugar: 0g		
+Pecan Nuts	Pistachios	Calories: 196	Calories: 159	Nutty delight comparison	#PecansVsPistachios #HealthyNuts
+		Carbs: 4g	Carbs: 8g		
+		Protein: 2.5g	Protein: 6g		
+		Fat: 20g	Fat: 13g		
+		Sugar: 1.1g	Sugar: 2.2g		
+Oatmeal	Granola	Calories: 154	Calories: 489	Breakfast showdown	#OatmealVsGranola #HealthyBreakfast
+		Carbs: 27g	Carbs: 65g		
+		Protein: 6g	Protein: 14g		
+		Fat: 3g	Fat: 20g		
+		Sugar: 1g	Sugar: 29g		
+Red Bell Pepper	Yellow Bell Pepper	Calories: 31	Calories: 50	Colorful pepper battle	#RedBellPepperVsYellowBellPepper #HealthyVeggies
+		Carbs: 7g	Carbs: 12g		
+		Protein: 1g	Protein: 1g		
+		Fat: 0.2g	Fat: 0.4g		
+		Sugar: 5g	Sugar: 9g		
